@@ -19,7 +19,7 @@ const EVENTS = [
         date : '12/12/2019',
         time: '10:00 am',
         price : 500,
-        imageurl : 'assets/images/angularconnect-shield.png',
+        imageUrl : '/assets/images/angularconnect-shield.png',
         location : {
             address : '1102 JH',
             city : 'Amsterdam',
